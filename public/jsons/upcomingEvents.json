@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Portrait Workshop",
+    "date": "April 5, 2025",
+    "image": "/assets/clubevents/event_placeholder.jpg"
+  },
+  {
+    "name": "Landscape Expedition",
+    "date": "May 10, 2025",
+    "image": "/assets/clubevents/event_placeholder.jpg"
+  },
+  {
+    "name": "Studio Lighting Masterclass",
+    "date": "June 20, 2025",
+    "image": "/assets/clubevents/event_placeholder.jpg"
+  },
+  {
+    "name": "Astrophotography Night",
+    "date": "July 15, 2025",
+    "image": "/assets/clubevents/event_placeholder.jpg"
+  }
+]

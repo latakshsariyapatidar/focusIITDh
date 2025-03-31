@@ -1,0 +1,133 @@
+{
+  "club_secretary": {
+    "name": "Bidipta Saha",
+    "position": "Club Secretary",
+    "club_part": "Council Members",
+    "instagram": "https://www.instagram.com/bidipta8257/",
+    "linkedin": "",
+    "contact": "",
+    "image": "/assets/bidipta.jpg"
+  },
+  "junior_club_secretary": {
+    "name": "Mayank Sharma",
+    "position": "Junior Club Secretary",
+    "club_part": "Council Members",
+    "instagram": "https://www.instagram.com/hey.p9dt/",
+    "linkedin": "",
+    "contact": "",
+    "image": "/assets/mayank.jpeg"
+  },
+  "members": [
+    [
+      {
+        "name": "Bidipta Saha",
+        "position": "Club Secretary",
+        "club_part": ["Council Members"],
+        "instagram": "https://www.instagram.com/bidipta8257/",
+        "linkedin": "",
+        "contact": "",
+        "image": "/assets/bidipta.jpg"
+      },
+      {
+        "name": "Mayank Sharma",
+        "position": "Junior Club Secretary",
+        "club_part": ["Council Members"],
+        "instagram": "https://www.instagram.com/hey.p9dt/",
+        "linkedin": "",
+        "contact": "",
+        "image": "/assets/mayank.jpeg"
+      },
+      {
+        "name": "Rickycharan",
+        "email": "ep24bt021@iitdh.ac.in",
+        "instagram": "@rickycharan_rc",
+        "linkedin": "@Ricky Charan",
+        "contact": "9110372770",
+        "image": "https://drive.google.com/uc?export=view&id=1rsa4BMKOwlWIFIE_C4sC3NCMYhNKT5tu",
+        "club_part": ["Council Members", "Photography"]
+      },
+      {
+        "name": "Rushikesh Deshmukh",
+        "email": "me24bt020@gmail.com",
+        "instagram": "@r_u_s_h_i_1.4.3",
+        "contact": "8208416382",
+        "image": "https://drive.google.com/uc?export=view&id=1gL_fMFlTZwftjcKSg_e2d8C0tbQJI_hH",
+        "club_part": ["Editing", "Photography"]
+      },
+      {
+        "name": "E. Sai Charan",
+        "email": "is24bm018@iitdh.ac.in",
+        "instagram": "elusari_saicharan",
+        "contact": "7989726615",
+        "image": "",
+        "club_part": ["Filmmaking", "Photography"]
+      },
+      {
+        "name": "Apratim Das",
+        "email": "ee24bt002@iitdh.ac.in",
+        "linkedin": "https://www.linkedin.com/in/apratim-das-82a043316",
+        "instagram": "@apratimdasofficial",
+        "contact": "6909568296",
+        "image": "https://drive.google.com/uc?export=view&id=1KzhNdM0QwBigv437CTOL8jR9P8qFJ5Dx",
+        "club_part": ["Editing", "Filmmaking", "Photography"]
+      },
+      {
+        "name": "Affan Pathan",
+        "email": "cs24bt033@iitdh.ac.in",
+        "linkedin": "https://www.linkedin.com/in/affan-pathan-ba6492330",
+        "instagram": "@itzcobaltboy",
+        "image": "https://drive.google.com/uc?export=view&id=1eUSWg1tIpFwVOWoOPJ1_VjfFv2RUcE32",
+        "club_part": ["Editing", "Filmmaking", "Photography"]
+      },
+      {
+        "name": "M VEERENDAR NAIK",
+        "email": "ep24bt027@iitdh.ac.in",
+        "instagram": "mr_veerunaik",
+        "contact": "9391920733",
+        "image": "https://drive.google.com/uc?export=view&id=1IsnCUffqrJTnQuYVlETcOVTqj-zxXljd",
+        "club_part": ["Photography"]
+      },
+      {
+        "name": "Hrishikesh Dutta",
+        "email": "ce24bt003@iitdh.ac.in",
+        "linkedin": "https://www.linkedin.com/in/hrishikesh-dutta-6b635a329",
+        "instagram": "@uc_anonymous",
+        "contact": "6305364896",
+        "image": "https://drive.google.com/uc?export=view&id=1hSX0iGJswOMmBVhRfALuo9JIKrWMniZz",
+        "club_part": ["Editing", "Photography"]
+      },
+      {
+        "name": "P Sri Smaran",
+        "email": "cs23bt039@iitdh.ac.in",
+        "linkedin": "SRI SMARAN PULLIPUDI",
+        "instagram": "srismaran_3581",
+        "contact": "6309776899",
+        "image": "https://drive.google.com/uc?export=view&id=1BOP0YqvK9_X1FrOCuao8-z4PrzZjnRdp",
+        "club_part": ["Council Members"]
+      },
+      {
+        "name": "Srishanth Naidu",
+        "email": "ee23bt043@iitdh.ac.in",
+        "instagram": "_srish.nxttt",
+        "contact": "8639957785",
+        "image": "https://drive.google.com/uc?export=view&id=15I7y2YuXeznWiyF-U5NleHd9XIpwZhAV",
+        "club_part": ["Editing", "Council Members"]
+      },{
+        "name" : "Lataksh Sariya",
+        "email" : "ee24bt018@iitdh.ac.in",
+        "instagram" : "https://www.instagram.com/lataksh_sariya/",
+        "linkedin": "https://www.linkedin.com/in/lataksh/",
+        "contact": "9755562122",
+        "club_part": ["Council Members", "Filmmaking","Editing"]
+      },
+      {
+        "name" : "Ayush Raj",
+        "email" : "is24bm003@iitdh.ac.in",
+        "instagram" : "",
+        "linkedin": "",
+        "contact": "",
+        "club_part": ["Council Members", "Filmmaking", "Editing"]
+      }
+    ]
+  ]
+}
