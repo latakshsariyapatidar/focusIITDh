@@ -52,7 +52,7 @@ export default function HamburgerMenu() {
           { title: "Events", id: "events" },
           { title: "Club Members", id: "members" },
           { title: "Memories", id: "memories" },
-          { title: "Contact Us", id: "contact" },
+          { title: "Contact Us", id: "footer" },
         ].map((item, key) => {
           return (
             <a
