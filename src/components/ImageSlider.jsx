@@ -9,7 +9,7 @@ const ImageSlider = () => {
 
   // Fetch images from JSON file
   useEffect(() => {
-    fetch("public/jsons/images.json")
+    fetch("/jsons/images.json")
       .then((response) => response.json())
       .then((data) => setImages(data.images))
       .catch((error) => console.error("Error fetching images:", error));

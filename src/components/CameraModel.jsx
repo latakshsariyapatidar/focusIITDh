@@ -18,7 +18,7 @@ function MovingLight() {
 }
 
 function RotatingModel() {
-  const { scene } = useGLTF("public/assets/originFixedCameraNew.glb");
+  const { scene } = useGLTF("/assets/originFixedCameraNew.glb");
   const modelRef = useRef();
   const mousePointerLocation = useMousePositionTracker();
 

@@ -27,7 +27,7 @@ export default function NavBar () {
       <div id="left" className="flex items-center justify-center">
         <img
           className="w-auto h-12 object-contain invert"
-          src="public/assets/FOC.US_final.png"
+          src="/assets/FOC.US_final.png"
           alt="logo"
         />
       </div>

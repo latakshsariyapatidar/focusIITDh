@@ -12,7 +12,7 @@ const ClubMembers = () => {
   const [hoveredImage, setHoveredImage] = useState(null);
 
   useEffect(() => {
-    fetch("public/jsons/members.json")
+    fetch("/jsons/members.json")
       .then((res) => res.json())
       .then((data) => {
         setMembersData(data);

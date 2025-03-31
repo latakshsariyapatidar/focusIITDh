@@ -8,12 +8,12 @@
 
 @font-face {
   font-family: "UnboundedBold";
-  src: url("public/fonts/UnboundedBold.ttf");
+  src: url("/fonts/UnboundedBold.ttf");
 }
 
 @font-face {
   font-family: "Halv";
-  src: url("public/fonts/0ce88599d2e95665-s.p.ttf");
+  src: url("/fonts/0ce88599d2e95665-s.p.ttf");
 }
 
 

@@ -7,7 +7,7 @@ const Footer = () => {
       {/* Club Logo */}
       <div className="mb-4">
         <img 
-          src="public/assets/FOC.US_final.png" 
+          src="/assets/FOC.US_final.png" 
           alt="Photography Club Logo" 
           className="mx-auto h-16 invert"
         />

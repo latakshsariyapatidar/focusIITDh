@@ -13,10 +13,10 @@ const Events = () => {
       {/* Layout with Live Event & Upcoming Events */}
       <div className="w-screen flex flex-col lg:flex-row gap-8 px-10">
         {/* Live Event */}
-        <LiveEvent eventDataPath="public/jsons/liveEvent.json" />
+        <LiveEvent eventDataPath="/jsons/liveEvent.json" />
 
         {/* Upcoming Events */}
-        <UpcomingEvents eventsDataPath="public/jsons/upcomingEvents.json" />
+        <UpcomingEvents eventsDataPath="/jsons/upcomingEvents.json" />
       </div>
     </section>
   );
