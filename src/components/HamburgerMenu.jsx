@@ -53,20 +53,21 @@ export default function HamburgerMenu() {
           { title: "Club Members", id: "members" },
           { title: "Memories", id: "memories" },
           { title: "Contact Us", id: "contact" },
-        ].map(
-                  (item, key) => {
-                    return (
-                      <a
-                        key={key}
-                        href={`#${item.id}`}
-                        className="relative hover:font-stretch-200% transition-all duration-300 transform hover:scale-110 font-mono text-2xl "
-                        onClick={()=>scrollToSection()}
-                      >
-                        {item.title}
-                      </a>
-                    );
-                  }
-                )}
+        ].map((item, key) => {
+          return (
+            <a
+              key={key}
+              href={`#${item.id}`}
+              className="relative hover:font-stretch-200% transition-all duration-300 transform hover:scale-110 font-mono text-2xl "
+              onClick={() => {
+                scrollToSection();
+                setIsOpen(!isOpen);
+              }}
+            >
+              {item.title}
+            </a>
+          );
+        })}
       </motion.div>
     </div>
   );
