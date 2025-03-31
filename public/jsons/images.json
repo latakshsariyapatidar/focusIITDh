@@ -1,17 +1,17 @@
 {
     "images": [
-      "public/assets/Images/image1.jpg",
-      "public/assets/Images/image2.jpg",
-      "public/assets/Images/image3.jpg",
-      "public/assets/Images/image4.jpg",
-      "public/assets/Images/image5.jpg",
-      "public/assets/Images/image6.jpg",
-      "public/assets/Images/image7.jpg",
-      "public/assets/Images/image8.jpg",
-      "public/assets/Images/image9.jpg",
-      "public/assets/Images/image10.jpg",
-      "public/assets/Images/image11.jpg",
-      "public/assets/Images/image12.jpg"
+      "/assets/Images/image1.jpg",
+      "/assets/Images/image2.jpg",
+      "/assets/Images/image3.jpg",
+      "/assets/Images/image4.jpg",
+      "/assets/Images/image5.jpg",
+      "/assets/Images/image6.jpg",
+      "/assets/Images/image7.jpg",
+      "/assets/Images/image8.jpg",
+      "/assets/Images/image9.jpg",
+      "/assets/Images/image10.jpg",
+      "/assets/Images/image11.jpg",
+      "/assets/Images/image12.jpg"
       ]
   }
   
